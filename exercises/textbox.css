@@ -1,0 +1,26 @@
+.search-box {
+  border-radius: 5px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-style: solid;
+  font-size: 15px;
+}
+
+.search-shadow {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  padding-left: 10px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 15px;
+  font-size: 16px;
+  width: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

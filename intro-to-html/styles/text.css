@@ -1,0 +1,49 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.vedio-title {
+  font-size: 15px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+
+.vedio-stats {
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.vedio-author {
+  color: gray;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.vedio-description {
+  color: gray;
+  font-size: 13px;
+  width: 280px;
+  margin-bottom: 100px;
+}
+
+.apple-text {
+  background-color: red;
+  color: white;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.shop-link:hover {
+  text-decoration: underline;
+}
+
+.shop-link {
+  cursor: pointer;
+}

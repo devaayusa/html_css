@@ -1,0 +1,35 @@
+input {
+  font-size: 16px;
+  border-width: 1px;
+  border-radius: 2px;
+  border-style: solid;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.first-name {
+  width: 148px;
+}
+
+.last-name {
+  width: 148px;
+}
+
+.email-bar {
+  display: block;
+  width: 300px;
+}
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  color: white;
+  background-color: rgb(57, 57, 218);
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+}

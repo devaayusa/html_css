@@ -1,0 +1,44 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.cat-picture {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.mutual {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: rgb(88, 88, 226);
+  color: white;
+  font-size: 15px;
+  border: none;
+  width: 105px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  border-radius: 5px;
+}
+
+div {
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  width: 200px;
+  height: 350px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
